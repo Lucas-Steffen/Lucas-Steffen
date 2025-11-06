@@ -17,16 +17,16 @@
 
 ## 📊 Estatísticas GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Steffen&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
 ---
 
 ## 📈 GitHub Metrics  
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark&utcOffset=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Steffen&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Steffen&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Steffen&theme=chartreuse_dark&utcOffset=3"/>
 </div>
 
 ---
