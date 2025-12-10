@@ -33,7 +33,7 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,java,vue,html,css,tailwind,express,postgres,docker,git,github,postman&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,html,css,tailwind,express,postgres,docker,git,github,postman&theme=dark)]()
 
 ---
 
