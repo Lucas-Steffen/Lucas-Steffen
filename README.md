@@ -2,16 +2,16 @@
 
 <h1 align="center">⚙️ Lucas Gabriel Amorim Steffen ⚙️</h1>
 <p align="center">
-  <b>Full Stack Developer • Node.js • Vue.js • Java • PostgreSQL • Docker</b>
+  <b>Full Stack Developer • Node.js • Vue.js • React • PostgreSQL • Docker</b>
 </p>
 
 ---
 
 ## Sobre mim
 - Desenvolvedor Full Stack com foco em arquitetura limpa e aplicações escaláveis  
-- Backend com Node.js, Express, Java e PostgreSQL  
-- Frontend com Vue.js, Tailwind CSS e práticas modernas de componentes  
-- Experiência com Docker, Firebird, integrações e APIs REST  
+- Backend com Node.js e Express
+- Frontend com Vue.js, React, Tailwind CSS, Typescript e práticas modernas de componentes  
+- Experiência com Docker, Firebird, PostgreSQL, integrações e APIs REST  
 - Interesse em performance, design de bancos relacionais e soluções seguras
 
 ---
@@ -33,7 +33,9 @@
 ---
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,html,css,tailwind,express,postgres,docker,git,postman&theme=dark)]()
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,html,css,tailwind,express,postgres,docker,git,postman&theme=dark" />
+</p>
 
 ---
 
