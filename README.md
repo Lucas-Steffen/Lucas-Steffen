@@ -15,6 +15,9 @@
 - Interesse em performance, design de bancos relacionais e soluções seguras
 
 ---
+<p align="center">
+  <img src="https://github.com/Lucas-Steffen/Lucas-Steffen/blob/main/dist/persona.svg?raw=true" alt="Minha GitPersona" width="750">
+</p>
 
 ## 📊 Estatísticas GitHub 
 <div align="center"> 
