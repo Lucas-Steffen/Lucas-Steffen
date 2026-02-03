@@ -30,7 +30,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Steffen&theme=chartreuse_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Steffen&theme=chartreuse_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Steffen&theme=chartreuse_dark&utcOffset=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Steffen&theme=chartreuse_dark&utcOffset=-4&v=1"/>
 </div>
 
 ---
