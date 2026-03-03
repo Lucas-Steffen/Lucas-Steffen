@@ -25,7 +25,7 @@
 
 **Backend & APIs**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=express,postgres,cs,dotnet" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=express,postgres" alt="Backend" />
 </a>
 
 **DevOps & Tools**  
