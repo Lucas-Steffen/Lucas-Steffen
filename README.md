@@ -3,7 +3,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:112a3b,50:1e3a5f,100:2c5282&text=Lucas%20Gabriel&section=header&textBg=false&fontSize=50&fontColor=fff&fontAlignY=35&desc=Software%20Engineer&descSize=35&reversal=false"/>
 
 <p align="center">
-  <a href="https://conversy.up.railway.app"><img src="https://img.shields.io/badge/Conversy-1e3a5f?style=for-the-badge&logo=rocket&logoColor=white" alt="Conversy"></a>
+  <a href="https://conversy.up.railway.app"><img src="https://img.shields.io/badge/Conversy-conversy.app-1e3a5f?style=for-the-badge&logo=rocket&logoColor=white" alt="Conversy"></a>
 </p>
 
 ---
