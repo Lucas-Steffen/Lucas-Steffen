@@ -20,17 +20,17 @@
   
 **Languages & Frameworks**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,vue" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react" alt="Languages" />
 </a>
 
 **Backend & APIs**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=express,postgres" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres" alt="Backend" />
 </a>
 
 **DevOps & Tools**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,grafana" alt="DevOps" />
 </a>
 
 **Frontend & Styling**  
@@ -40,7 +40,7 @@
 
 **Testing & Quality**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postman" alt="Testing" />
+  <img src="https://skillicons.dev/icons?i=postman,jest" alt="Testing" />
 </a>
 
 </div>
