@@ -9,7 +9,7 @@
 ---
 
 ### About me
-- Currently building **[Conversy](https://conversy.up.railway.app)** - An AI platform that helps entrepreneurs sell more.
+- Currently building **[Conversy](https://conversy.tech)** - An AI platform that helps entrepreneurs sell more.
 - Software Engineer specializing in modern web technologies and scalable architectures.
 - Passionate about creating tools that solve real-world problems.
   
