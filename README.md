@@ -20,22 +20,22 @@
   
 **Languages & Frameworks**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript" alt="Languages" />
 </a>
 
 **Backend & APIs**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,redis" alt="Backend" />
 </a>
 
 **DevOps & Tools**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,grafana" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,grafana" alt="DevOps" />
 </a>
 
 **Frontend & Styling**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,bootstrap,vite" alt="Frontend" />
 </a>
 
 **Testing & Quality**  
