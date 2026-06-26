@@ -30,7 +30,7 @@
 
 **DevOps & Tools**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,grafana" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,git,grafana,prometheus,aws" alt="DevOps" />
 </a>
 
 **Frontend & Styling**  
