@@ -35,7 +35,7 @@
 
 **Frontend & Styling**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,bootstrap,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,vite" alt="Frontend" />
 </a>
 
 **Testing & Quality**  
