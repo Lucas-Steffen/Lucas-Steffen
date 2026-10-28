@@ -5,6 +5,9 @@
 />
 
 <p align="center">
+  <a href="https://lucas-steffen.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-lucas--steffen.vercel.app-2c5282?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/lucasteffen/">
     <img src="https://img.shields.io/badge/LinkedIn-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -65,7 +68,7 @@ Backend engineer based in Sinop, MT (Brazil). I build APIs and integrations that
 
 ## Contact
 
-Want to trade notes on backend architecture? Reach out on [LinkedIn](https://www.linkedin.com/in/lucasteffen/) or by [email](mailto:lucas.steffen.dev@gmail.com).
+Want to trade notes on backend architecture? See my [portfolio](https://lucas-steffen.vercel.app), or reach out on [LinkedIn](https://www.linkedin.com/in/lucasteffen/) or by [email](mailto:lucas.steffen.dev@gmail.com).
 
 <img
   width="100%"
